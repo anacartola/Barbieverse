@@ -6,8 +6,11 @@ Childhood to Generations. Barbie is one of the most important symbols on western
 
 I´ve loved the Barbie Movies that came on my time growing up, many of them made me dream bigger, be a kinder human being and a curious thinker. *Between her many careers, Barbie helped me choose my own professional path, it´s undeniable.*
 
+![5](https://github.com/anacartola/Barbieverse/assets/136506553/ae4748b2-83a8-4408-9e01-224ed04c35ae)
+## *Have fun creating with this dataset.*
 Since my start on data, I couldn´t find some structured quality data of her, so I needed to make on my own. After all, Barbie can be all she wants, even data.
 
-##*Have fun creating with this dataset.*
+Dataset made by me with WebScrapping Techniques, such as BeautifulSoup and Selenium
 
-![5](https://github.com/anacartola/Barbieverse/assets/136506553/ae4748b2-83a8-4408-9e01-224ed04c35ae)
+![image](https://github.com/anacartola/Barbieverse/assets/136506553/99c6bf19-d926-4b88-9309-34a72f9058ee)
+
